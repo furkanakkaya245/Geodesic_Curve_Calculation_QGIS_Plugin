@@ -1,0 +1,11 @@
+[general]
+name=Jeodezik Akış Haritası
+description=Excel (XLSX) verilerini kullanarak havalimanları arası jeodezik (küresel) rotaları hesaplar ve akış miktarına göre kalınlığı değişen haritalar oluşturur.
+version=1.0
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+author=Furkan AKKAYA
+email= furkanakkaya245@gmail.com
+about=Bu eklenti, kullanıcı tarafından sağlanan havalimanı ve rota verileri üzerinden QGIS ortamında görselleştirme yapar.
+category=Vektör
+icon=icon.png
